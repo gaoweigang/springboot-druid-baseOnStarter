@@ -1,0 +1,5 @@
+com\gwg\demo\Application.class
+com\gwg\demo\service\StudentService.class
+com\gwg\demo\mapper\StudentMapper.class
+com\gwg\demo\model\Student.class
+com\gwg\demo\config\DataSourceConfig.class

@@ -1,0 +1,3 @@
+com\gwg\demo\spring\autowire\test\Person.class
+com\gwg\demo\spring\autowire\test\PersonService.class
+com\gwg\demo\spring\autowire\test\SpringAnnotationTest.class
